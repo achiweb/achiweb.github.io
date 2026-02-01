@@ -711,7 +711,9 @@ a:focus {
       background-image: url("../images/top/profile.png");
       background-repeat: no-repeat;
       background-size: contain;
-      background-position: center center; }
+      background-position: center center; 
+      width: 168px;
+      margin: 0 auto; }
     #header .headerContainer .mainSection .txt_box {
       margin-top: 24px;
       text-align: center; }
